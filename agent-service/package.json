@@ -1,0 +1,19 @@
+{
+  "name": "agent-service",
+  "version": "1.0.0",
+  "description": "Agent service: LLM + tools (add_todo, list_todos), ReAct loop, streaming",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "openai": "^4.73.0"
+  }
+}
