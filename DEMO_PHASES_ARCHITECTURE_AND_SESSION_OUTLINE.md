@@ -1,4 +1,4 @@
-# Demo: Phases, Architecture, and Session Outline 
+# Demo: Phases, Architecture, and Session Outline  
 
 Single reference for the tech session: **demo project phases and architecture**, **session outline** (microservice + AI patterns, combined), and **BFF vs Next.js** recommendation.
 
